@@ -1,7 +1,7 @@
 package ringbuffer
 
 import (
-	"github.com/hopeAbounds/toolkit/ringbuffer"
+	"github.com/Choubeihai/toolkit/ringbuffer"
 	"sort"
 	"sync"
 	"sync/atomic"

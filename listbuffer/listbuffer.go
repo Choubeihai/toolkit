@@ -1,6 +1,6 @@
 package listbuffer
 
-import "github.com/hopeAbounds/toolkit/pool/bytebuffer"
+import "github.com/Choubeihai/toolkit/pool/bytebuffer"
 
 type ByteBuffer struct {
 	Buf  *bytebuffer.ByteBuffer

@@ -2,10 +2,10 @@ package ringbuffer
 
 import (
 	"errors"
-	"github.com/hopeAbounds/toolkit/byteconv"
-	"github.com/hopeAbounds/toolkit/math"
-	"github.com/hopeAbounds/toolkit/pool/bytebuffer"
-	"github.com/hopeAbounds/toolkit/pool/byteslice"
+	"github.com/Choubeihai/toolkit/byteconv"
+	"github.com/Choubeihai/toolkit/math"
+	"github.com/Choubeihai/toolkit/pool/bytebuffer"
+	"github.com/Choubeihai/toolkit/pool/byteslice"
 )
 
 const (
